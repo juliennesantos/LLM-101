@@ -60,13 +60,13 @@
 
 1. Run the Text Generator Script:
 
-    bash
+    ```bash
     python src\text_generator.py
     This script generates text based on input prompts using GPT-2.
 
 2. Run Tests: Use pytest to ensure everything is working correctly:
 
-    bash
+    ```bash
     pytest tests/
 
 ## 🧪 Experimentation and Next Steps
