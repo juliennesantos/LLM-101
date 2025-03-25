@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+llm_project_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-specific logs
+*.log
+
+# Test results
+.coverage
+*.cover
+
+# Cache files and folders
+*.cache
+*.egg-info/
+*.eggs/
+*.pickle
+*.pytest_cache/
+*.pyo
+
+# Package directories
+dist/
+build/
+*.egg
+*.wheel
+
+# Config files (optional - add back if necessary)
+*.ini
+*.env
+*.json
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
